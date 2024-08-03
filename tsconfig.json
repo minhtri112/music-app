@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "target": "ES6",// Phiên bản ECMAScript mục tiêu
+      "module": "commonjs",// Sử dụng module CommonJS
+      "removeComments" : true,// Xóa comment trong quá trình biên dịch
+      "esModuleInterop": true,   // Dùng từ khóa import thay cho require
+      "outDir": "dist",  // Thư mục xuất file JavaScript sau khi biên dịch
+    },
+  }
+  
